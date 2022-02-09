@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175186043542",
+    "project_id": "moukscreen",
+    "storage_bucket": "moukscreen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175186043542:android:53aa5a370a9991e43518b7",
+        "android_client_info": {
+          "package_name": "com.testproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175186043542-3htkje8c48mhgbejglde2h93ncie2o15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrI8j9qDrDNksRva5ITFgbmvL2BHhbYys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175186043542-3htkje8c48mhgbejglde2h93ncie2o15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
